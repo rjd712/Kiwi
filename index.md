@@ -1,7 +1,7 @@
 ---
 title: "Kiwi"
 author: "rjd712"
-date: "12/15/2020"
+date: 12/15/2020
 output: rmarkdown::github_document
 runtime: shiny
 ---
